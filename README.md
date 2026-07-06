@@ -152,36 +152,6 @@ student
   <img src="./screenshots/pg3.png" alt="Page" width="90%">
 </p>
 
-# 🎯 Skills Demonstrated
-
-* Responsive Web Design
-* Modern JavaScript (ES6+)
-* DOM Manipulation
-* Form Validation
-* REST API Development
-* Express.js Routing
-* PostgreSQL Integration
-* SQL CRUD Operations
-* MVC Project Structure
-* Error Handling
-* Component-Based Development
-* Git Version Control
-* Clean Code Practices
-
----
-
-# 🚀 Future Improvements
-
-* 🔐 Authentication & Login
-* 👨‍💼 Admin Dashboard
-* 📊 Analytics Dashboard
-* 📄 PDF Registration Receipt
-* 📧 Email Notifications
-* 🔍 Student Search
-* 📥 Excel/PDF Export
-* 🌙 Dark Mode
-* 🔔 Toast Notifications
-* 📈 Registration Analytics
 
 ---
 
