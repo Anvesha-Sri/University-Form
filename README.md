@@ -80,7 +80,7 @@ A responsive university registration platform built with modern web technologies
 # 🗄 Database Schema
 
 ```text
-Students
+student
 │
 ├── 🆔 id
 ├── 👤 first_name
@@ -137,6 +137,20 @@ Students
 
 ---
 
+
+#📷 Screenshots
+
+<p align="center">
+  <img src="./screenshots/pg1.png" alt="Page" width="90%">
+</p>
+
+<p align="center">
+  <img src="./screenshots/pg2.png" alt="Page" width="90%">
+</p>
+
+<p align="center">
+  <img src="./screenshots/pg3.png" alt="Page" width="90%">
+</p>
 
 # 🎯 Skills Demonstrated
 
