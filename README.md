@@ -34,78 +34,13 @@ A responsive university registration platform built with modern web technologies
 * 📱 Fully Responsive Interface
 * 📝 Comprehensive Registration Form
 * ⚡ Real-Time Form Validation
-* 📧 Email Validation
 * 🎯 Dynamic Subject Selection
 * 🏠 Hostel & Residence Management
 * 🎓 Course & Academic Information
 * 🔒 REST API Integration
 * 🗄 PostgreSQL Database Storage
-* 🚫 Duplicate Registration Prevention
-* 💬 Success & Error Notifications
-* 🎨 Modern Glassmorphism UI
+* 🎨 Modern UI
 * 🌙 Smooth Animations
-* ♿ Accessible Components
-
----
-
-# 📂 Project Structure
-
-```text
-University-Student-Registration-System
-│
-├── 📁 client/
-│   │
-│   ├── 📁 assets/
-│   │   ├── images/
-│   │   ├── icons/
-│   │   └── fonts/
-│   │
-│   ├── 📁 css/
-│   │   ├── style.css
-│   │   ├── responsive.css
-│   │   ├── animation.css
-│   │   └── variables.css
-│   │
-│   ├── 📁 js/
-│   │   ├── app.js
-│   │   ├── validation.js
-│   │   ├── api.js
-│   │   ├── ui.js
-│   │   └── helpers.js
-│   │
-│   └── index.html
-│
-├── 📁 server/
-│   │
-│   ├── 📁 config/
-│   │   └── db.js
-│   │
-│   ├── 📁 controllers/
-│   │   └── studentController.js
-│   │
-│   ├── 📁 middleware/
-│   │   └── validation.js
-│   │
-│   ├── 📁 routes/
-│   │   └── studentRoutes.js
-│   │
-│   ├── 📁 models/
-│   │   └── studentModel.js
-│   │
-│   ├── server.js
-│   └── package.json
-│
-├── 📁 database/
-│   ├── schema.sql
-│   ├── tables.sql
-│   ├── seed.sql
-│   └── queries.sql
-│
-├── 📁 screenshots/
-│
-├── README.md
-└── .gitignore
-```
 
 ---
 
@@ -147,10 +82,10 @@ University-Student-Registration-System
 ```text
 Students
 │
-├── 🆔 student_id
+├── 🆔 id
 ├── 👤 first_name
 ├── 👤 last_name
-├── 🎂 date_of_birth
+├── 🎂 dob
 ├── 📧 personal_email
 ├── 🎓 university_email
 ├── 📚 course
@@ -202,17 +137,6 @@ Students
 
 ---
 
-# 📱 Responsive Design
-
-✅ Desktop
-
-✅ Laptop
-
-✅ Tablet
-
-✅ Mobile
-
----
 
 # 🎯 Skills Demonstrated
 
